@@ -3,7 +3,10 @@ new line added
 push pull testing
 testing in new pc
 we will finish it by 10 min
-<<<<<<< HEAD
 testing another thing
+abcd
 testing from new
+<<<<<<< HEAD
 8.39
+8.29
+>>>>>>> 2d618a41ba73246baf2ff4b2e5f53b2ec89b09b1
