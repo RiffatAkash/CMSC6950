@@ -3,5 +3,6 @@ new line added
 push pull testing
 testing in new pc
 we will finish it by 10 min
+<<<<<<< HEAD
 testing another thing
 
