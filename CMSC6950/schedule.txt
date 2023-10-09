@@ -5,4 +5,8 @@ testing in new pc
 we will finish it by 10 min
 <<<<<<< HEAD
 testing another thing
+<<<<<<< HEAD
 abcd
+=======
+testing from new
+>>>>>>> 0b78e8ef2e9088202d6019ab91a93f07cda43aff
