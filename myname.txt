@@ -1,4 +1,7 @@
 hi
+<<<<<<< HEAD
 This is Riffat Akash
 I am from Bangladesh
 Memorial University 
+=======
+>>>>>>> parent of 89c553e... Adding new line
